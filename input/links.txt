@@ -1,0 +1,26 @@
+# Welcome to YouTube Translator Links File
+# =========================================
+# INSTRUCTIONS:
+# 1. Paste one YouTube video link per line.
+# 2. OPTIONAL: After the link, add "|" and a language name
+#    to manually specify the transcription language.
+# 
+# Examples:
+# https://www.youtube.com/watch?v=AUtRgfFUCl8 | Armenian
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ | Russian
+# https://www.youtube.com/watch?v=xyz12345678
+# 
+# If you do NOT specify a language, the system will AUTO-DETECT it.
+#
+# Supported Languages Include:
+# Armenian, Arabic, Persian, Russian, Ukrainian, Chinese, Japanese,
+# Korean, English, Spanish, French, German, Portuguese, Italian,
+# Hindi, Bengali, Turkish, Vietnamese, Thai, Swahili, Amharic,
+# Greek, Dutch, Polish, Romanian, Serbian, Croatian, Hebrew,
+# Indonesian, Malay, Urdu, and more!
+#
+# Paste your links below this line:
+https://www.youtube.com/watch?v=unly9__6c7I 
+https://www.youtube.com/watch?v=IFx8eABfivg 
+https://www.youtube.com/watch?v=AUtRgfFUCl8 | Armenian
+https://www.youtube.com/watch?v=gtmBaIKw5P4
