@@ -152,17 +152,10 @@ pip install -r requirements.txt
 
 ## 📢 Future Improvements (Optional Ideas)
 
-- Streamlit web app front-end.
 - Subtitle (.srt) file generation.
 - Upload translated transcripts directly to YouTube.
 - Handle extremely large videos by auto-splitting audio.
 - Docker container for easy deployment.
-
----
-
-## 📸 Screenshots (Optional)
-
-> (You can add screenshots later showing the app running, terminal output, or sample outputs!)
 
 ---
 
